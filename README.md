@@ -64,8 +64,7 @@
   └─ 总损失: CTC损失 + 0.1×化学规则惩罚项 → 用于模型优化
      解码输出: 贪婪解码 (取logits最大值) → 预测字符序列
   ```
-- ![loss_curve](C:\Users\Administrator\Desktop\project\results\loss_curve.png)
+  
+  
 
-## ![accuracy](C:\Users\Administrator\Desktop\project\results\accuracy.png)
-
-![prediction_samples](C:\Users\Administrator\Desktop\project\results\prediction_samples.png)
+![accuracy](C:\Users\Administrator\Desktop\project\assets\accuracy.png)![prediction_samples](C:\Users\Administrator\Desktop\project\assets\prediction_samples.png)![loss_curve](C:\Users\Administrator\Desktop\project\assets\loss_curve.png)
